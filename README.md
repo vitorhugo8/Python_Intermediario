@@ -1,5 +1,5 @@
 # Estudos de Python Intermediario
-![Python](https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png)
+   ![Python](https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png)
 
 ## Aula 1 - Funções 'def'
 Na primeira aula eu aprendi a utilizar funções em Python para fazer calculos simples em uma calculadora, conversão de graus (de Celsius para Farenheit) e aprendi um pouco sobre funções recursivas, que chamam a si mesma dentro da função.
