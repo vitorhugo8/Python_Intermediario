@@ -13,6 +13,9 @@ Estudo de funções de primeira classe, que recebem outras funções como argume
 código.
 
 ## Aula 4 - Closure 
+Nessa aula, aprendi que funções podem acessar variáveis de seu escopo externo mesmo após esse escopo ter sido encerrado. Essa técnica é chamada de closure e pode ser usada para otimizar a programação.
 
+## Aula 5 - _Sets_
+Nessa aula, aprendi sobre as 'sets', uma coleção desordenada de elementos únicos e imutáveis. Ele é útil para operações como união, interseção e diferença entre conjuntos. 
 
  
