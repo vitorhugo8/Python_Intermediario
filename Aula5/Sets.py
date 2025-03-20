@@ -6,6 +6,7 @@ permissão de adição e remoção de elementos.
 -> Sets são efificientes para remover valores duplicados de iteráveis. 
 -> Não tem indices 
 -> Não tem ordem
+
 """
 # Removendo valores repetidos da lista 
 lista = [1, 2, 3, 4, 4, 4, 4, 5]
