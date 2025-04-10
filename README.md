@@ -33,6 +33,14 @@ Revisão do assunto de Lambda, exercícios mais complexos e closures com lambda.
 Eu já havia estudado sobre esse assunto em aulas anteriores, agora, eu aprendi a utilizar esses processos com dicionários e _**kwargs_ um recurso que permite passar um número variável de 
 argumentos nomeados para uma função. 
 
+
 ## Aula 8 - *Sockets*
 Nesta aula aprendi sobre o que são sockets e como ele se conecta através de processos. São úteis para aplicativos de rede. Aprendi sobre a arquiterura cliente/servidor e as principais arquiteturas utilizadas na web, e como explorar vulnerabilidades em redes públicas 
- 
+
+# **Módulo 2: Programação Orientada a Objetos (POO)**
+
+## Aula 1 - Herança (conceito 1)
+Nesta aula, eu aprendi sobre um dos principais conceitos de Programação Orientada a Objetos, a Herança, que se refere a característica das classes de "herdarem" características de classes superiores. Aprendi a ccolocar este método em prática com u sistema de RPG simples, que se utiliza de atributos bases de personagens para criar novos personagens
+
+## Aula 2 - Polimorfismo + Classe Abstrata e Interface 
+Nesta aula, eu aprendi o que é Polimorfismo, mais um conceito principal de POO. Este conceito define que objetos com diferentes classes podem ser tratados de forma uniforme, ou seja, podem ter características que os torna semelhantes durante a manipulação do programa, isso facilita a reutilização de linhas de código. Além disso, aprendi a criar Classes Abstratas, escopos de classes que podem ser usadas para poupar linhas de código posteriormente no programa. Também aprendi o que é uma Interface de maneira conceitual, pois o Python não possui Interface nativa.
