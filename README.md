@@ -32,4 +32,7 @@ Revisão do assunto de Lambda, exercícios mais complexos e closures com lambda.
 ## Aula 7 - Empacotamento e Desempacotamento condicionado
 Eu já havia estudado sobre esse assunto em aulas anteriores, agora, eu aprendi a utilizar esses processos com dicionários e _**kwargs_ um recurso que permite passar um número variável de 
 argumentos nomeados para uma função. 
+
+## Aula 8 - *Sockets*
+Nesta aula aprendi sobre o que são sockets e como ele se conecta através de processos. São úteis para aplicativos de rede. Aprendi sobre a arquiterura cliente/servidor e as principais arquiteturas utilizadas na web, e como explorar vulnerabilidades em redes públicas 
  
