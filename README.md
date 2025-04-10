@@ -36,6 +36,7 @@ argumentos nomeados para uma função.
 
 ## Aula 8 - *Sockets*
 Nesta aula aprendi sobre o que são sockets e como ele se conecta através de processos. São úteis para aplicativos de rede. Aprendi sobre a arquiterura cliente/servidor e as principais arquiteturas utilizadas na web, e como explorar vulnerabilidades em redes públicas 
+![POO-Python](https://dojo.bylearn.com.br/wp-content/uploads/2020/09/dojo-7.png)
 
 # **Módulo 2: Programação Orientada a Objetos (POO)**
 
