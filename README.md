@@ -1,4 +1,4 @@
-# Estudos de Python Intermediario (cybersecurity)
+# Estudos de Python Intermediario 
 ![Python](https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png)
 
 # **Módulo 1: Primeiros Passos**
