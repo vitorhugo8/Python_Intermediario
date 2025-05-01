@@ -40,8 +40,14 @@ Nesta aula aprendi sobre o que são sockets e como ele se conecta através de pr
 
 # **Módulo 2: Programação Orientada a Objetos (POO)**
 
-## Aula 1 - Herança (conceito 1)
+## Aula 1 - Herança 
 Nesta aula, eu aprendi sobre um dos principais conceitos de Programação Orientada a Objetos, a Herança, que se refere a característica das classes de "herdarem" características de classes superiores. Aprendi a ccolocar este método em prática com u sistema de RPG simples, que se utiliza de atributos bases de personagens para criar novos personagens
 
 ## Aula 2 - Polimorfismo + Classe Abstrata e Interface 
 Nesta aula, eu aprendi o que é Polimorfismo, mais um conceito principal de POO. Este conceito define que objetos com diferentes classes podem ser tratados de forma uniforme, ou seja, podem ter características que os torna semelhantes durante a manipulação do programa, isso facilita a reutilização de linhas de código. Além disso, aprendi a criar Classes Abstratas, escopos de classes que podem ser usadas para poupar linhas de código posteriormente no programa. Também aprendi o que é uma Interface de maneira conceitual, pois o Python não possui Interface nativa.
+
+## Aula 3 - **__dict__ e vars**
+Nesta aula aprendi sobre estes dois conceitos de Python. Se tratam de estrutras de dados que armazenam pares de chaves-valor (chave se trata de uma identificação única que serve para acessar um valor, o valor aqui pode ser qualquer coisa, uma string um inteiro, booleano e etc. Muito utilizado em dicionários) permitindo a recuperação eficiente de dados. Aprendi a passar dados de um código para um dicionário no formato .JSON, o que pode ser útil no futuro. 
+
+## Aula 4 - Métodos e Polimorfismo 
+Nesta aula eu me aprofundei mais no conceito de métodos de classe em Python, utilizei decoradores pela primeira vez para criar um método que não necesscita de instanciação do *'self'*. Aprendi o que são **factories** (fábricas) em Python, que são funções ou classes que fornecem uma interface para criar objetos, encapsulando a lógica de criação e permitindo que as subclasses ou funções decidam qual objeto criar. Além disso, estudei mais sobre o conceito de Polimorfismo, mais um dos pilares da POO. 
