@@ -7,7 +7,7 @@ sem a necessidade de uma instância da classe.
 Este método não tem acesso a self e nem a cls.
 
 """
-# MÉTODO ESTÁTICO (staticmethod)
+# MÉTODO ESTÁTICO (static method)
 # Um método que não recebe nem self e nem cls como argumentos. Ele não tem acesso nem a instância e nem a classe, ou seja, 
 # ele é basicamente um método "normal", mas definido dentro da classe. 
 

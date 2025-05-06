@@ -1,21 +1,36 @@
 """
-Polimorfismo refere-se a capacidade dos objetos diferentes de se comportar de maneira semelhante as mesmas 
-mensagens. Isso facilita o desenvolvimento de software mais flexível, reutilizável e fácil de manter.
+Polimorfismo refere-se a capacidade de múltiplas classes de terem métodos com o 
+mesmo nome, mas com comportamentos diferentes. Isso permite que objetos de diferentes
+classes possam ser tratados de forma uniforme, geralmente por meio de uma interface
+comum ou classe base. 
 """
 
 class Funcionario():
     def __init__(self, nome, funcao):
         self.nome = nome
         self.funcao = funcao
-        
-
-class Vendedor(Funcionario):
-    def __init__(self, nome, funcao):
-        super().__init__(nome, funcao)
-
+    
     def calcular_salario(self):
-        salario = 2000 - ((300 - 20 - 40)/2) 
+        raise NotImplementedError("Subclasses deve implementar esse método")
+        # Função que obriga as sub-classes a utilizarem esse método se herdarem da classe 'Funcionario'
+        
+class Vendedor(Funcionario):
+    def calcular_salario(self):
+        salario = 2000 - ((300 - 20 - 40)/ 2)
         return round(salario)
     
-carlos = Vendedor("Carlão", "Vendedor")
-print(f"O salário do {carlos.funcao} é de: R${carlos.calcular_salario()}")
+class Gerente(Funcionario):
+    def calcular_salario(self):
+        return 5000
+
+# Uso polimorfico 
+def imprimir_salario(Funcionario):
+    print(f"O salário do {Funcionario.funcao} é de R${Funcionario.calcular_salario()}")
+
+carlos = Vendedor("Carlos", "Vendedor")
+ana = Gerente("Ana", "Gerente")
+
+for pessoa in [carlos, ana]:
+    imprimir_salario(pessoa)
+ 
+    
