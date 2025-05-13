@@ -13,6 +13,7 @@ Geralmente é usado nas seguintes situações:
 OBS: Código Clinte é o código que usa o seu código, 
 Atributos que começam com 1 ou 2 underlines não podem ser usados fora do escopo da classe.
 """
+
 class Caneta:
     def __init__(self, cor="Preta"):
         self.__cor = cor # Atributo privado 

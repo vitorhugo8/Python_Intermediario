@@ -14,6 +14,7 @@ Por que usar o Property?
     que o código é usado. 
     
 """
+
 # Exemplo de uso de property 
 class Caneta: 
     def __init__(self, cor="Preta"):

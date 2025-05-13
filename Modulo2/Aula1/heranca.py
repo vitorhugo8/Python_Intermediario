@@ -8,7 +8,6 @@ em comum entre os usuários para cadastrá-los no nosso sistema.
 Quando herdamos uma classe, não nos limitamos aos métodos e atributos dela. 
 Nossas subclasses podem ter atributos e métodos específicos. 
 A proposta da herança é reaproveitar métodos e atributos em comum.
-
 """
 # Exemplo do uso de Herança 
 class Veiculo:
