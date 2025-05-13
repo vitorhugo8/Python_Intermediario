@@ -5,7 +5,7 @@ determinada ação ao longo do código.
 
 Elas podem (ou não) receber parâmetros (argumentos)
 e retornar um valor específico. Por padrão, funções Python retornam None (nada).
- 
+
 """
 def saudacao(nome= "indefinido "):
     print(f"Seja bem vindo, {nome}")
