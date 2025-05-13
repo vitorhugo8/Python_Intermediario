@@ -7,10 +7,12 @@ Por que usar o Property?
     Torna os métodos de acesso mais naturais:
         Você escreve 'caneta.cor', não 'caneta.get_cor()'
         Você atribui caneta.cor = 'vermelha', não set_cor('vermelha')
+
     Fica mais limpo, legível e elegante, mas ainda permite controle e validação por trás 
     dos panos.
     Vocẽ pode transformar um atributo público simples em um método mais tarde sem mudar o jeito
     que o código é usado. 
+    
 """
 # Exemplo de uso de property 
 class Caneta: 
