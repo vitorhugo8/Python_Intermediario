@@ -51,3 +51,9 @@ Nesta aula aprendi sobre estes dois conceitos de Python. Se tratam de estrutras 
 
 ## Aula 4 - Métodos e Polimorfismo 
 Nesta aula eu me aprofundei mais no conceito de métodos de classe em Python, utilizei decoradores pela primeira vez para criar um método que não necesscita de instanciação do *'self'*. Aprendi o que são **factories** (fábricas) em Python, que são funções ou classes que fornecem uma interface para criar objetos, encapsulando a lógica de criação e permitindo que as subclasses ou funções decidam qual objeto criar. Além disso, estudei mais sobre o conceito de Polimorfismo, mais um dos pilares da POO. 
+
+## Aula 5 - Aprofundamento em Métodos 
+Nesta aula eu aprendi mais sobre os métodos de instância, de classe e estáticos. Cada método tem suas características e servem para diferentes contextos _(toda a explicação está no arquivo .py desta aula)_ 
+
+## Aula 6 - Métodos Getter/Setter e o decorator _@property_
+Nesta aula aprendi sobre o que são decorator em Python e sobre como eles são essenciais em um ambiente de desenvolvimento avançado. Fiz exercícios relacionados a este método para fizar o conteúdo. 
