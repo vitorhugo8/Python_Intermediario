@@ -7,7 +7,6 @@ como base para outras classes. Ela funciona como o escopo de outras classes.
 
 Interface - É um conjunto de métodos que uma classe deve implementar. Ela define o 
 comportamento de uma classe sem fornecer detalhes de implementação.
-
 """
 """
 A Interface: 

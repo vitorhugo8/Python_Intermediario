@@ -23,6 +23,6 @@ caneta = Ferramenta_de_escrever("Caneta Bic")
 escritor.ferramenta = caneta # Associando o objeto escritor ao objeto ferramenta de escrever
 
 print(caneta.escrever())
-print(escritor.ferramenta.escrever())
+print(escritor.ferramenta.escrever()) 
         
         

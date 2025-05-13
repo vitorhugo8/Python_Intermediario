@@ -18,5 +18,5 @@ class Classe:
             print("Olá, eu sou um método estático de uma classe!")
         
 c1 = Classe()
-c1.funcao_classe(1, 2, 3)
+c1.funcao_classe(1, 2, 3) 
 

@@ -25,5 +25,4 @@ mas não suporta funções como uma linguagem de programação de verdade.
 CURIOSIDADE -- O package.json é um arquivo JSON central em projetos de desenvolvimento 
 de software em JavaScript e Node.js para gerenciar as dependências, informações sobre o projeto, 
 scripts de execução e metadados do projeto.
-
 """

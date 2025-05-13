@@ -6,7 +6,6 @@ __dict__ e vars para atributos de instância.
   Um par cave-valor é uma estrutra de dados que associa uma chave a um valor. 
   A chave identifica o valor (que pode ser um int, str, objeto ou qualquer outro tipo de dado)
   
-
 """
 class Pessoa():
     ano_atual = 2025

@@ -10,6 +10,7 @@ Exemplo -- Imagine um sistema que precisa criar diferentes tipos de carros. Em v
 classes para cada tipo de carro, uma fábrica pode ter um método que, 
 com base em um parâmetro (ex: "esportivo", "familiar"), retorna o carro correspondente. 
 """
+
 class Pessoa():
     ano = 2025 # Exemplo de atributo de classe 
 
