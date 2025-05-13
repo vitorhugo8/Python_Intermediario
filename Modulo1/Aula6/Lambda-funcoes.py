@@ -3,7 +3,6 @@ Criamos uma função que recebe uma expressão lambda por conta de boas prática
 programação. A PEP 8 não recomenda a criação de uma expressão lambda diretamente no 
 código, sem que ela seja atribuída a uma variável ou passada como argumento para 
 outra função.
-
 """
 # Função que recebe outra função como argumento + argumentos variáveis 
 def executa(funcao, *args):

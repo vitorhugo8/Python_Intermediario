@@ -6,7 +6,6 @@ toda variável denominada 'global' pode ser acessada em todo o código.
 O escopo local é o escopo onde apenas nomes do mesmo local podem ser alcançados.
 
 Dica: Sempre fazer a refatoração de um código. Ele sempre pode melhorar.
-
 """
 x = 1 # Variável Global 
 

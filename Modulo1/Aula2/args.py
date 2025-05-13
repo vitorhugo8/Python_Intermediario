@@ -11,7 +11,6 @@ Desempacotar sequências em Python é uma técnica essencial
 que pode simplificar muito o seu código. Seja você um desenvolvedor 
 intermediário ou avançado, entender e aplicar o desempacotamento de 
 sequências pode tornar seu trabalho mais eficiente e seu código mais limpo. 
-
 """
 # Exemplo de desempacotamento com tupla 
 print(30*"==")

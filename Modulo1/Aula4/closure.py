@@ -1,6 +1,5 @@
 """
 Closure - É um objeto de função que lembra dos valores nos escopos envolventes.
-
 """
 def saudacao(saudacao, nome):
     def saudar():

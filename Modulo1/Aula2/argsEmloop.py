@@ -2,7 +2,6 @@
 Utilizando loops para fazer contagem de números em ordem. 
 O parâmetro '*args' recebe dados ilimitados quando chamado pela função. 
 Como vimos anteriormente, o operador ' * ' recebe dados ilimitados. 
-
 """
 def soma(*args):
     total = 0 # Acumulador 

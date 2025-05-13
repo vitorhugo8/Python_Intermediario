@@ -13,6 +13,7 @@ função descartável no código
 
 Built-in - São funções que já estão integradas 
 na linguagem e podem ser usadas imediatamente
+
 """
 # Exemplo de HOF 1
 def nome_user(nome):

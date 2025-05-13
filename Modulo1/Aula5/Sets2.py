@@ -1,5 +1,6 @@
 """
 Exemplo de uso dos Sets. 
+
 """
 letras = set()
 while True:

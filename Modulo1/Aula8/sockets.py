@@ -21,7 +21,6 @@ adiciona uma camada de segurança via SSL/TLS. Isso garante que os dados trocado
 o cliente e o servidor sejam criptografados, protegendo contra ataques como interceptação
 e adulteração. Quando você acessa um site digitando apenas https://..., sua 
 requisição passa pela porta 443.
-
 """
 import socket
 

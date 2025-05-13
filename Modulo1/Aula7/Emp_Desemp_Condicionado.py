@@ -14,7 +14,6 @@ diferentes quantidades de parâmetros sem precisar definir cada um individualmen
 Usamos kwargs quando não sabemos quantos argumentos nomeados serão passados.
 
 É "ativado" com duas estrelas antes do argumento.
-
 """
 # Exemplo de Empacotamento
 valores = 1, 2, 3

@@ -1,7 +1,6 @@
 """
 Função Lamda - Como já vimos anteriormente, lambda é uma função anônima, que pode ser
 descartada durante a execução do código. 
-
 """
 # Ordenando elementos de uma lista com Lambda
 lista0 = [
