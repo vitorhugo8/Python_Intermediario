@@ -1,7 +1,7 @@
 # Estudos de Python Intermediario 
-![Python](https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png)
 
 # **Módulo 1: Primeiros Passos**
+![Python](https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png)
 
 ## Aula 1 - Funções 'def'
 Na primeira aula eu aprendi a utilizar funções em Python para fazer calculos simples em uma calculadora, conversão de graus (de Celsius para Farenheit) e aprendi um pouco sobre funções recursivas, que chamam a si mesma dentro da função.
@@ -36,9 +36,10 @@ argumentos nomeados para uma função.
 
 ## Aula 8 - *Sockets*
 Nesta aula aprendi sobre o que são sockets e como ele se conecta através de processos. São úteis para aplicativos de rede. Aprendi sobre a arquiterura cliente/servidor e as principais arquiteturas utilizadas na web, e como explorar vulnerabilidades em redes públicas 
-![POO-Python](https://dojo.bylearn.com.br/wp-content/uploads/2020/09/dojo-7.png)
+
 
 # **Módulo 2: Programação Orientada a Objetos (POO)**
+![POO-Python](https://dojo.bylearn.com.br/wp-content/uploads/2020/09/dojo-7.png)
 
 ## Aula 1 - Herança 
 Nesta aula, eu aprendi sobre um dos principais conceitos de Programação Orientada a Objetos, a Herança, que se refere a característica das classes de "herdarem" características de classes superiores. Aprendi a ccolocar este método em prática com u sistema de RPG simples, que se utiliza de atributos bases de personagens para criar novos personagens
@@ -57,3 +58,6 @@ Nesta aula eu aprendi mais sobre os métodos de instância, de classe e estátic
 
 ## Aula 6 - Métodos Getter/Setter e o decorator _@property_
 Nesta aula aprendi sobre o que são decorator em Python e sobre como eles são essenciais em um ambiente de desenvolvimento avançado. Fiz exercícios relacionados a este método para fizar o conteúdo. 
+
+## Aula 7 - Relações entre classes *(Associação, Agregação e Composição)* 
+Nesta aula aprendi sobre como as classes se relacionam, como classes Pai podem receber (ou possuir) classes Filhas, otimizando processos e determinando o tempo de vida de cada método. Coloquei o conceito em prática com exercícios.
