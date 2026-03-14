@@ -1,4 +1,5 @@
 # Estudos de Python Intermediario 
+### OBS: Esse arquivo segue a minha própria jornada de aprendizado, não seguindo estritamente o plano de aula de algum curso específico.
 
 # **Módulo 1: Primeiros Passos**
 ![Python](https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png)
@@ -61,3 +62,33 @@ Nesta aula aprendi sobre o que são decorator em Python e sobre como eles são e
 
 ## Aula 7 - Relações entre classes *(Associação, Agregação e Composição)* 
 Nesta aula aprendi sobre como as classes se relacionam, como classes Pai podem receber (ou possuir) classes Filhas, otimizando processos e determinando o tempo de vida de cada método. Coloquei o conceito em prática com exercícios.
+
+# **Módulo 3: Bases de Dados com Python (SQLite) e MySQL (pymysql)**
+![Bancos de Dados com Python] (https://imgs.search.brave.com/4U4warh7PJJrzhasZEpzjnNOGLVkdg9DzXPbpKZH5F8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly80bGlu/dXguY29tLmJyL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA4/L08tcXVlLWUtYmFu/Y28tZGUtZGFkb3Mt/YWNpZC5qcGc)
+
+## Aula 1 - A função de um Banco de Dados 
+O SQLite é um banco de dados leve e baseado em arquivo. A biblioteca já vem instalada com o Python nativamente desde o Python2. Ela serve para: 
+- criar bancos de dados,
+- criar tabelas,
+- inserir dados, 
+- consultar dados, 
+- modificar dados
+
+Tudo diretamente pelo Python, sem precisar abrir um programa externo.
+Mesmo estando dentro do Python, utilizamos a linguagem SQL para fazer tudo no projeto. A biblioteca sqlite nos permite fazer isso sem abrir um editor de código SQL. 
+
+**OBS: O SQLite também é muito usado em: protótipos, aplicações locais, ferramentas CLI e apps embarcados.**
+
+Quando criamos algo como bancos de dados, arquivos ou uma conexão de rede, o sistema operacional cria recursos na memória. Se não fecharmos essas coisas depois de abrir durante a execução do programa, corremos o risco de: 
+- A memória ficar ocupada,
+- Arquivos podem ficar travados, 
+- Banco pode corromper dados, 
+- Muitas conexões abertas podem quebrar o sistema
+
+## Aula 2 - Criando um Banco de Dados
+Durante a aula, foi proposto criar um programa que guardasse as informações de nome e peso dos usuários. Eu coloquei em prática conceitos que aprendi como: criação de um cursor para manipulação do banco e criação de tabelas e colunas com tipos diferentes de dados. 
+
+**OBS: As informações inseridas pela primeira vez no banco ficam salvas permanentemente. Rodar o programa mais de uma vez com as mesmas informações cria registros de usuários repetidos.**
+
+
+
