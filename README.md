@@ -64,7 +64,7 @@ Nesta aula aprendi sobre o que são decorator em Python e sobre como eles são e
 Nesta aula aprendi sobre como as classes se relacionam, como classes Pai podem receber (ou possuir) classes Filhas, otimizando processos e determinando o tempo de vida de cada método. Coloquei o conceito em prática com exercícios.
 
 # **Módulo 3: Bases de Dados com Python (SQLite) e MySQL (pymysql)**
-![Bancos de Dados com Python] (https://4linux.com.br/wp-content/uploads/2020/08/O-que-e-banco-de-dados-acid.jpg)
+![BancosdeDadoscomPython](https://4linux.com.br/wp-content/uploads/2020/08/O-que-e-banco-de-dados-acid.jpg)
 
 ## Aula 1 - A função de um Banco de Dados 
 O SQLite é um banco de dados leve e baseado em arquivo. A biblioteca já vem instalada com o Python nativamente desde o Python2. Ela serve para: 
